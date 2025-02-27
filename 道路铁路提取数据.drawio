@@ -280,6 +280,9 @@
         <mxCell id="u35bPQCWc4-tih43mP9w-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley;fillColor=#66FF66;" vertex="1" parent="1">
           <mxGeometry x="782" y="550" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u35bPQCWc4-tih43mP9w-29" value="boundingboxes&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;dissolve&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;extractbylocation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="663" y="525" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
